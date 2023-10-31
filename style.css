@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+  }
+body{
+    color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.789);
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    background-color: #ffd700;
+    display: block;
+    height: 10.8rem;
+     /* height: 170px; */
+    color: #000000;
+    display: grid;
+    padding: 10px;
+
+}
+.headder_title{
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: bold;
+}
